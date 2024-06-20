@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidish</h1>
 <h3 align="center">A passionate AI and ML student and developer implementing my skills in project based learning!</h3>
 
-- 🔭 I’m currently working on **learning GenAI and openCV**
+- 🔭 I’m currently working on **learning GenAI and data science**
 
 - 🌱 I’m currently learning **openCV, gemini**
 
